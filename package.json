@@ -33,14 +33,14 @@
     "config": true
   },
   "dependencies": {
-    "debug": "^2.2.0",
+    "debug": "^3.2.6",
     "fs-extra": "^1.0.0",
     "gitane": "~0.3.1",
     "shell-escape": "0.0.1",
     "strider-docker-gitane-camo": "~0.0.1"
   },
   "devDependencies": {
-    "eslint": "^3.1.1",
+    "eslint": "^5.16.0",
     "expect.js": "^0.3.1",
     "jshint": "^2.9.4",
     "mocha": "^5.2.0"
